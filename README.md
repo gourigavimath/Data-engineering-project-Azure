@@ -14,6 +14,8 @@ Note: For learning purpose we are trying to use different Azure services.
 
 
 The image shows the end-to-end architecture /pipeline of project.
+
+![Pipleline](https://github.com/gourigavimath/Data-engineering-project-Azure/assets/57680005/27198144-9f3c-4047-bca5-f2045b67d51d)
  
 
 1.	We are taking data from data source. We will extract data from API using Azure Data factory and store this data as raw data folder in Azure data lake gen 2.
