@@ -5,7 +5,11 @@ Knowledge is learning new something every day. Wisdom is letting go of some bad 
 I am presenting a simple data engineering project which I explored from one of you tube video.
 
 Here we are taking sample data set from kaggle - https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
+
+
 Note: For learning purpose we are trying to use different Azure services.
+
+
 •	Azure Data Factory: Azure data factory is data integration service that enables you to create, schedule, and manage data pipelines for efficient data movement and transformation between various sources and destinations in azure and beyond. It simplifies ETL(Extract, Transform, Load) and data integration tasks.
 •	Azure Data Lake Gen2: Data lake solution that combines the capabilities of a data lake with the power of azure blob storage, allowing you to store and analyze large volumes of structured and unstructured data with enhanced performance, security and analytics capabilities.
 •	Azure Databricks: Databricks is a unified analytics platform built on top of apache spark, designed to help data engineers and data scientists collaborate on big data processing and machine learning tasks. It provides tools for data exploration, data processing and building machine learning models in a collaborative and scalable environment.
